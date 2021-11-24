@@ -21,7 +21,7 @@
 - [RBTray](https://github.com/Logerfo/RBTray)
 - [Windows](https://github.com/Logerfo/Windows)
 
-## This website
+## My website
 - [logerfo.github.io](https://github.com/Logerfo/logerfo.github.io)
 
 ## Gists
