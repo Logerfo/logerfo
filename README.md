@@ -17,7 +17,7 @@
 - [target-label-action](https://github.com/Logerfo/target-label-action)
 - [triage-action](https://github.com/Logerfo/triage-action)
 
-## Back-end applications (in collaboration)
+## Back-end applications
 - [VSPoll.API](https://github.com/valamistudio/vspoll.api)
 - [Surdobot](https://github.com/valamistudio/surdobot)
 
